@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/toodus/static/css/main.073c9b0a.css",
+    "main.js": "/toodus/static/js/main.6633ff17.js",
+    "static/js/787.f00cbea5.chunk.js": "/toodus/static/js/787.f00cbea5.chunk.js",
+    "index.html": "/toodus/index.html",
+    "main.073c9b0a.css.map": "/toodus/static/css/main.073c9b0a.css.map",
+    "main.6633ff17.js.map": "/toodus/static/js/main.6633ff17.js.map",
+    "787.f00cbea5.chunk.js.map": "/toodus/static/js/787.f00cbea5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6633ff17.js"
+  ]
+}
